@@ -23,6 +23,7 @@ int main()
 
     float G = cbrt(x*y*z);
     cout << "Geometric mean = " << G << endl;
-
+    
+    //wow another new comment
     return 0;
 }
